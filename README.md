@@ -13,3 +13,12 @@ oil is approximately 95 wt. % and the riser residence time 2.71 seconds. A catal
 The annual capital cost was calculated to be $45 million per year. The cost of raw materials is $2.2 million per day and the calculated revenue is $2.4 million per day. 
 The project ROI was calculated as 3.68 % with a payback period of 4.6 years.
 
+\
+Here's a block flow diagram of the process:
+![](Images/Overall%20Process%20Zones-By-Zone%20Breakdown.png)
+
+\
+And, here's an optimization performed on the LPG/DG splitting tower:
+![](Images/LPG%20DG%20Splitting%20Tower%20Optimization.png)
+
+Please read the report and skim the presentation slides for further insight and analysis.
